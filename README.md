@@ -13,7 +13,7 @@
 
 執行方式：
 
-* 直接點擊 SnakeGame.exe
+* 直接點擊 Snake.exe
 
 備註：
 若無法開啟，請允許 Windows 執行此檔案（可能會出現安全提示）
