@@ -11,9 +11,9 @@
 * 每吃一個字母會逐步完成拼字
 * 撞牆或撞到自己會結束遊戲
 
-執行方式：
+下載連結：
 
-* 直接點擊 Snake.exe
+https://drive.google.com/drive/folders/18mdEq860W0t3uW4obmzsVW-78da1pk0B?usp=sharing
 
 備註：
 若無法開啟，請允許 Windows 執行此檔案（可能會出現安全提示）
