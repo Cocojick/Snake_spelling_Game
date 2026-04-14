@@ -19,5 +19,6 @@
 https://drive.google.com/drive/folders/18mdEq860W0t3uW4obmzsVW-78da1pk0B?usp=sharing
 
 備註：
-若無法開啟，請允許 Windows 執行此檔案（可能會出現安全提示）
+1.執行檔案包含遊玩版及測試版可自行因應需求下載
+2.若無法開啟，請允許 Windows 執行此檔案（可能會出現安全提示）
 
